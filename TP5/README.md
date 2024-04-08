@@ -5,7 +5,7 @@
 
 ### faire un script qui récolte des ptites informations du système et qui les affiches a l'utilisateur 🗒️
 
-script en lui même : [📁idcard.sh](idcard.sh)
+script en lui même : [📁idcard.sh](Idcard.sh)
 
 
 <u> résultat du script :</u> (sur une vm faite a l'arrache pcq j'en avais pas sur mon pc fixe)
@@ -37,7 +37,7 @@ Listening ports :
     - /usr/bin
     - /usr/local/sbin
     - /usr/sbin
-Here is your random cat (jpg file) : https://cdn2.thecatapi.com/images/1rl.jpg
+Here is your random cat (jpg file) : (ascii art d'un chat)
 ```
 
 
